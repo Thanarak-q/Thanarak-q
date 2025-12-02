@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm [Your Name]
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Q
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Tech+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Security+Engineer+%F0%9F%94%92;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Secure+Systems+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -14,17 +14,27 @@
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,cpp,go" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,js,go,c,cpp,java,ruby" />
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass,bootstrap,redux,vite" />
+### 🎨 Frontend & Styling
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,sass,react,vue" />
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,postgresql,mysql,redis" />
+### ⚙️ Backend Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,go,elysia" />
+<br/>
+<img src="https://img.shields.io/badge/Elysia-000000?style=for-the-badge&logo=elysiajs&logoColor=white" />
+<img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" />
 
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,vercel,vscode,postman" />
+### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+### 🔒 Security & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,kubernetes,prometheus" />
 
 </div>
 
@@ -69,25 +79,32 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> About Me
 
 ```javascript
-const developer = {
-    name: "Your Name",
-    role: "Full Stack Developer",
+const securityEngineer = {
+    name: "Q",
+    role: "Security Engineer 🔒",
     location: "Chiang Mai, Thailand 🇹🇭",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    languages: ["Python", "JavaScript", "Go", "C", "C++", "Java", "Ruby"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+        frontend: {
+            frameworks: ["Next.js", "React", "Vue"],
+            styling: ["HTML", "CSS", "Tailwind", "Sass"]
         },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"]
+        backend: {
+            frameworks: ["Elysia", "FastAPI", "Flask", "Fiber", "Express"],
+            languages: ["Go", "Python", "JavaScript", "Ruby"]
         },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "AWS", "GitHub Actions", "Vercel"],
+        ai_ml: {
+            frameworks: ["LangChain", "TensorFlow", "PyTorch"],
+            techniques: ["RAG", "Machine Learning", "NLP"],
+            expertise: "Building intelligent systems 🤖"
+        },
+        security: {
+            focus: ["Application Security", "Penetration Testing", "Secure Architecture"],
+            tools: ["Docker", "Kubernetes", "Linux"]
+        }
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() more than I'd like to admit 😅"
+    currentFocus: "Security Engineering & AI/ML Integration",
+    funFact: "Breaking things to make them stronger 💪🔐"
 };
 ```
 
@@ -99,16 +116,51 @@ const developer = {
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Working on **something exciting**
-- 🌱 Learning **Cloud Architecture & DevOps**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, Tech**
-- 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: **Coffee + Code = Magic** ☕✨
+- 🔒 Working as a **Security Engineer**
+- 🤖 Building **AI-powered RAG systems** with LangChain
+- 🚀 Developing high-performance APIs with **Go Fiber & Elysia**
+- 🛡️ Securing systems and finding vulnerabilities
+- 🌱 Learning **Advanced ML & Security Automation**
+- 💬 Ask me about **Security, Go, Python, AI/ML, Web Dev**
+- ⚡ Fun fact: **I secure systems by day, break them by night** 😈
 
 <br clear="both">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## 🔥 Tech Stack Breakdown
+
+<div align="center">
+
+### 🌐 Web Development
+```
+Frontend: Next.js → HTML/CSS → JavaScript/TypeScript
+Backend:  Elysia → FastAPI → Flask → Fiber → Express
+```
+
+### 🤖 AI/ML Stack
+```
+Frameworks: LangChain → RAG → TensorFlow → PyTorch
+Focus:      NLP → Document QA → Intelligent Agents
+```
+
+### 🔒 Security Engineering
+```
+AppSec → Penetration Testing → Secure Architecture
+Vulnerability Assessment → Threat Modeling
+```
+
+### 💾 Languages Proficiency
+```
+Expert:       Python, JavaScript, Go
+Proficient:   C, C++, Java, Ruby
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ---
 
@@ -146,7 +198,9 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-### ⭐️ From [yourusername](https://github.com/yourusername) with 💙
+### 🔐 "Security is not a product, but a process" - Bruce Schneier
+
+### ⭐️ From [Q](https://github.com/yourusername) with 💙
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
