@@ -36,30 +36,34 @@
 ## Core Competencies
 
 ```yaml
+Full Stack Development:
+  Frontend:
+    - Next.js & React Application Development
+    - Server-Side Rendering & API Routes
+    - Modern UI/UX with Tailwind CSS
+    - Responsive Design & Progressive Web Apps
+  Backend:
+    - High-Performance APIs: Elysia (Bun), FastAPI, Flask
+    - RESTful API Design & Microservices Architecture
+    - Database Design & Optimization (PostgreSQL, Vector DBs)
+    - Systems Programming with Rust
+  Infrastructure:
+    - Docker & Container Orchestration
+    - Cloud Infrastructure (DigitalOcean, S3-compatible storage)
+    - CI/CD Pipelines & DevOps
+
 Security Engineering:
   - Application Security Architecture
   - Vulnerability Assessment & Penetration Testing
   - Secure Code Review & Threat Modeling
   - Security Automation & DevSecOps
 
-Backend Development:
-  - High-Performance APIs: Elysia (Bun), FastAPI, Flask
-  - Microservices Architecture
-  - RESTful API Design
-  - Database Design & Optimization (PostgreSQL)
-  - Systems Programming with Rust
-
 AI & Machine Learning:
-  - RAG (Retrieval-Augmented Generation)
+  - RAG (Retrieval-Augmented Generation) Systems
   - LangChain Integration & Data Pipelines
   - NLP & Document Processing
-  - ML Model Deployment
-
-Full Stack:
-  - Next.js Application Development
-  - Server-Side Rendering & API Routes
-  - Modern Frontend Architecture
-  - Cloud Infrastructure (DigitalOcean, S3-compatible storage)
+  - Vector Databases & Embedding Optimization
+  - ML Model Deployment & Production AI
 ```
 
 ---
@@ -258,40 +262,40 @@ Educational project exploring object-oriented programming principles through neu
 <tr>
 <td width="50%">
 
-### Security Engineering
-- Building secure-by-design systems
-- Automated security testing
-- Threat intelligence integration
-- Zero-trust architecture
+### Full Stack Development
+- High-performance backend with Rust & Bun
+- Modern frontend with Next.js & React
+- Microservices & scalable architecture
+- Cloud-native solutions & DevOps
 
 </td>
 <td width="50%">
 
-### AI/ML Development  
-- RAG system implementation
-- LangChain orchestration
-- Custom ML pipelines
-- Production AI deployment
+### Security Engineering
+- Secure-by-design systems
+- Automated security testing
+- Threat modeling & code review
+- DevSecOps & zero-trust architecture
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Backend Development
-- High-performance APIs with Rust & Bun
-- Microservices architecture
-- Real-time data processing
-- Scalable system design
+### AI/ML Engineering
+- RAG system implementation
+- LangChain & data pipelines
+- Vector databases & embeddings
+- Production AI deployment
 
 </td>
 <td width="50%">
 
-### Full Stack
-- Next.js applications
-- Modern web architecture
-- Performance optimization
-- Cloud-native solutions
+### Systems & Performance
+- Rust systems programming
+- Real-time data processing
+- Database optimization
+- High-availability architecture
 
 </td>
 </tr>
