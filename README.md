@@ -2,9 +2,9 @@
 
 # Q (Thanarak)
 
-### Security Engineer | Full Stack Developer | AI/ML Engineer
+### Cyber Security Engineer | Full Stack Developer | AI/ML Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Security+Engineering;Full+Stack+Development;AI+%26+Machine+Learning;High-Performance+Systems;Rust+%26+Systems+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Cyber+Security+Engineering;Full+Stack+Development;AI+%26+Machine+Learning;High-Performance+Systems;Rust+%26+Systems+Programming" alt="Typing SVG" />
 
 </div>
 
@@ -118,7 +118,32 @@ Web application for collecting and managing nursing research data with LINE OA i
 
 ### 🎓 Academic Projects
 
-#### 🏘️ Village Security Platform
+### 🏘️ Village Security Platform (Year 3 Term 1)
+**Role:** Scrum Master, Frontend Dashboard & Backend API Developer
+
+[![Village Security](https://img.shields.io/badge/View_Project-Village_Security-blue?style=for-the-badge&logo=github)](https://github.com/Thanarak-q/Village_Security_project)
+
+An integrated platform for managing residential communities with real-time monitoring and visitor management.
+
+**Tech Stack:** Next.js, Bun, Elysia, Docker, PostgreSQL, DigitalOcean Spaces, Caddy, LINE LIFF
+
+**Key Features:**
+- Real-time visitor screening and notification system
+- OCR-assisted ID verification
+- Resident management dashboard
+- LINE LIFF integration for mobile access
+- Containerized deployment with Docker
+- Reverse proxy with Caddy and optional Ngrok exposure
+
+**Achievements:**
+- Led team as Scrum Master coordinating frontend and backend development
+- Built admin dashboard with Next.js for comprehensive community management
+- Developed RESTful APIs using Elysia for high-performance data handling
+- Integrated S3-compatible storage for secure document management
+
+---
+
+#### 🍽️ Restaurant Management System (Year 2 Term 2)
 **Role:** Scrum Master, Frontend Dashboard & Backend API Developer
 
 [![Village Security](https://img.shields.io/badge/View_Project-Village_Security-blue?style=for-the-badge&logo=github)](https://github.com/Thanarak-q/Village_Security_project)
@@ -207,7 +232,7 @@ Web application for collecting and managing nursing research data with LINE OA i
 
 ---
 
-### 🧠 Basic Feedforward Neural Network in Java
+#### 🧠 Basic Feedforward Neural Network in Java (Year 2 Term 1)
 **Role:** Developer
 
 [![FNN Java](https://img.shields.io/badge/View_Project-FNN_Java-orange?style=for-the-badge&logo=github)](https://github.com/MI9000/Basic-FNN-with-JAVA)
@@ -221,6 +246,47 @@ Educational project exploring object-oriented programming principles through neu
 - Object-oriented architecture for network layers
 - Training algorithm implementation
 - Educational codebase demonstrating OOP concepts
+
+---
+
+## CTF Competitions & Achievements
+
+### 🏆 Capture The Flag Competitions
+
+<table>
+<tr>
+<th width="30%">Competition</th>
+<th width="20%">Organizer</th>
+<th width="20%">Date</th>
+<th width="30%">Description</th>
+</tr>
+<tr>
+<td><strong>CTF Thailand 2024</strong></td>
+<td>NCSA</td>
+<td>September 2024</td>
+<td>National cybersecurity competition organized by Thailand's National Cyber Security Agency</td>
+</tr>
+<tr>
+<td><strong>Mini CTF Bootcamp 2025</strong></td>
+<td>NCSA</td>
+<td>May-July 2025</td>
+<td>Intensive CTF training bootcamp with hands-on challenges across multiple rounds nationwide</td>
+</tr>
+<tr>
+<td><strong>Hack The Scammer CTF 2025</strong></td>
+<td>NCSA</td>
+<td>2025</td>
+<td>Specialized CTF focusing on anti-scam techniques and fraud detection scenarios</td>
+</tr>
+</table>
+
+**CTF Skills Developed:**
+- Web exploitation and vulnerability assessment
+- Binary exploitation and reverse engineering
+- Cryptography and forensics analysis
+- Network security and penetration testing
+- OSINT (Open Source Intelligence)
+- Incident response simulation
 
 ---
 
@@ -250,7 +316,7 @@ Educational project exploring object-oriented programming principles through neu
 | **Security** | OWASP, Penetration Testing, AppSec |
 | **DevOps** | Docker, Kubernetes, CI/CD, Linux, Caddy |
 | **Databases** | PostgreSQL, MongoDB, Redis, Vector DBs |
-| **Cloud** | DigitalOcean, S3-compatible storage |
+| **Cloud** | AWS, DigitalOcean, S3-compatible storage |
 
 </div>
 
@@ -361,23 +427,31 @@ from fastapi import FastAPI
 
 ```typescript
 const currentFocus = {
-  position: "Security Engineer & Full Stack Developer",
+  position: "Cyber Security Engineer",
+  company: "Current Employer",
   activeProjects: [
     "MATH RAG CMU - RAG optimization & production deployment",
     "Nurse Research Platform - Feature expansion & scaling",
     "Village Security Platform - Production maintenance"
   ],
   focus: [
-    "Application security architecture",
-    "High-performance backend systems with Rust",
-    "RAG-powered AI applications",
-    "Security automation with AI/ML"
+    "Application security architecture and threat modeling",
+    "High-performance backend systems with Rust & Bun",
+    "RAG-powered AI applications for security analytics",
+    "Security automation with AI/ML",
+    "Vulnerability assessment and penetration testing"
   ],
   learning: [
     "Advanced Rust systems programming",
-    "Cloud security architecture", 
+    "Cloud security architecture (AWS)", 
     "MLOps for production AI systems",
-    "Kubernetes orchestration"
+    "Kubernetes orchestration",
+    "Advanced CTF techniques and red team operations"
+  ],
+  ctfExperience: [
+    "CTF Thailand 2024 (NCSA)",
+    "Mini CTF Bootcamp 2025 (NCSA)",
+    "Hack The Scammer CTF 2025 (NCSA)"
   ]
 };
 ```
