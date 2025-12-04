@@ -15,7 +15,7 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=rust,python,js,ts,go,c,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,python,js,ts,go,c,cpp,java,ruby&theme=dark" />
 
 ### Backend Technologies
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,bun&theme=dark" />
@@ -66,7 +66,55 @@ Full Stack:
 
 ## Featured Projects
 
-### 🏘️ Village Security Platform
+### 🚀 External Projects
+
+#### 🤖 MATH RAG CMU
+**Role:** RAG Developer & Data Pipeline Engineer
+
+Advanced Retrieval-Augmented Generation system for mathematical content processing.
+
+**Tech Stack:** FastAPI, LangChain, Docker, Vector Databases
+
+**Key Features:**
+- Custom RAG pipeline for mathematical document retrieval
+- Vector embedding optimization for academic content
+- High-performance API with FastAPI
+- Automated data ingestion pipeline
+
+**Achievements:**
+- Designed and implemented end-to-end RAG architecture
+- Built scalable data processing pipelines with LangChain
+- Optimized vector search for mathematical notation
+- Deployed containerized solution with Docker
+
+---
+
+#### 🏥 Nurse Research Data Platform
+**Role:** Full Stack Developer
+
+[![Nurse Project](https://img.shields.io/badge/Full_Stack-Research_Platform-purple?style=for-the-badge)]()
+
+Web application for collecting and managing nursing research data with LINE OA integration.
+
+**Tech Stack:** Next.js, LINE OA API
+
+**Key Features:**
+- Research data collection interface
+- LINE Official Account integration for notifications
+- Responsive design for mobile and desktop
+- Secure data storage and retrieval
+
+**Achievements:**
+- Developed complete full-stack solution from scratch
+- Integrated LINE OA API for real-time notifications
+- Built intuitive UI for research data management
+- Implemented secure authentication and data validation
+
+---
+
+### 🎓 Academic Projects
+
+#### 🏘️ Village Security Platform
 **Role:** Scrum Master, Frontend Dashboard & Backend API Developer
 
 [![Village Security](https://img.shields.io/badge/View_Project-Village_Security-blue?style=for-the-badge&logo=github)](https://github.com/Thanarak-q/Village_Security_project)
@@ -91,27 +139,29 @@ An integrated platform for managing residential communities with real-time monit
 
 ---
 
-### 🍽️ Cashier Management System
+#### 🍽️ Restaurant Management System
 **Role:** Team Leader & Frontend Developer
 
-[![Cashier System](https://img.shields.io/badge/View_Project-Cashier_System-green?style=for-the-badge&logo=github)](https://github.com/CSCMU66/24cs212g05)
+[![Restaurant System](https://img.shields.io/badge/View_Project-Restaurant_System-green?style=for-the-badge&logo=github)](https://github.com/CSCMU66/24cs212g05)
 
-Comprehensive point-of-sale and restaurant management system with multi-role interfaces.
+Comprehensive restaurant management system with point-of-sale, table management, and kitchen operations.
 
 **Tech Stack:** Flask, JavaScript, HTML/CSS, Docker
 
 **Key Features:**
-- Table management and reservation system
-- Billing and payment processing
-- Kitchen display system for order management
-- Multi-role access (Staff, Kitchen, Admin)
-- Admin analytics dashboard
+- Complete table management and reservation system
+- Point-of-sale with billing and payment processing
+- Kitchen Display System (KDS) for order management
+- Multi-role access control (Cashier, Kitchen Staff, Admin)
+- Admin analytics dashboard with sales reporting
+- Real-time order tracking and status updates
 
 **Achievements:**
 - Led team development and coordinated task distribution
 - Built responsive admin interface with vanilla JavaScript
 - Designed RESTful API architecture with Flask
-- Implemented role-based access control system
+- Implemented comprehensive role-based access control
+- Created real-time kitchen-to-cashier communication system
 
 ---
 
@@ -189,7 +239,7 @@ Educational project exploring object-oriented programming principles through neu
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Rust, Python, JavaScript/TypeScript, Go, C, C++, Java |
+| **Languages** | Rust, Python, JavaScript/TypeScript, Go, C, C++, Java, Ruby |
 | **Backend** | Elysia (Bun), FastAPI, Flask, Express.js |
 | **Frontend** | Next.js, React, Tailwind CSS, HTML5/CSS3 |
 | **AI/ML** | LangChain, RAG, TensorFlow, PyTorch |
@@ -255,15 +305,15 @@ Educational project exploring object-oriented programming principles through neu
 gantt
     title Academic & Professional Projects
     dateFormat YYYY-MM
-    section Year 2 Term 1
-    FNN with Java (OOP Study)    :2023-06, 2023-09
-    section Year 2 Term 2
-    Cashier Management System    :2023-10, 2024-02
-    section Year 3 Term 1
-    Village Security Platform    :2024-06, 2024-10
     section External Projects
     MATH RAG CMU                 :2024-03, 2024-12
     Nurse Research Platform      :2024-05, 2024-11
+    section Year 2 Term 1
+    FNN with Java (OOP Study)    :2023-06, 2023-09
+    section Year 2 Term 2
+    Restaurant Management System :2023-10, 2024-02
+    section Year 3 Term 1
+    Village Security Platform    :2024-06, 2024-10
 ```
 
 ---
@@ -309,9 +359,9 @@ from fastapi import FastAPI
 const currentFocus = {
   position: "Security Engineer & Full Stack Developer",
   activeProjects: [
-    "Village Security Platform - Production deployment",
-    "MATH RAG CMU - RAG optimization",
-    "Nurse Research Platform - Feature expansion"
+    "MATH RAG CMU - RAG optimization & production deployment",
+    "Nurse Research Platform - Feature expansion & scaling",
+    "Village Security Platform - Production maintenance"
   ],
   focus: [
     "Application security architecture",
