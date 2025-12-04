@@ -75,7 +75,7 @@ _Year 2, Term 2 | Flask, JavaScript, Docker_
 - Designed responsive UI and reliable backend suitable for high-activity environments.
 
 ### **Feedforward Neural Network in Java — Developer**  
-_Year 2, Term 1 | Java, OOP_  
+_Year 1, Term 2 | Java, OOP_  
 - Implemented a neural network with forward propagation for academic purposes.  
 - Demonstrated OOP principles, clean architecture, and maintainable code.
 
