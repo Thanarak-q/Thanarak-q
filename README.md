@@ -5,6 +5,7 @@ Currently a Cyber Security Engineer at Chiang Mai University (ITSC) while comple
 
 Developer at Heart:
 Passionate about full stack development and AI integration, with recent experience architecting secure-by-design, production-ready systems—including a Math Retrieval-Augmented Generation (RAG) pipeline. Proficient in leveraging new technologies (Rust, Elysia, Vector DBs) to bridge complex logic with user-friendly applications.
+
 ---
 
 ## 🎓 Education
