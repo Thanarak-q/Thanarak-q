@@ -60,7 +60,7 @@ _Oct 2025 – Feb 2026_
 - Deployed scalable, production-ready RAG APIs using Docker.
 
 ### **Nurse Research Data Platform — Full Stack Developer**  
-_Juk 2025 
+_Jul 2025 
 - Built a secure research data collection and management platform using Next.js and LINE OA.  
 - Developed responsive UI, robust form validation, and instant notification workflows for healthcare researchers.  
 - Deployed the platform using Docker for real-world operation.
