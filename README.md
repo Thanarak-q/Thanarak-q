@@ -1,7 +1,7 @@
 ## 🧑‍💻 About Me
 
 Security Professional:
-Currently a Cyber Security Engineer at Chiang Mai University (ITSC) while completing a CS degree. Specialized in hands-on cyber defense using SIEM, log analysis, and incident response to detect and neutralize threats. Skilled at automating security operations to increase efficiency and accelerate response times.
+Currently a Cyber Security Engineer at Information Technology Service Center (ITSC) while completing a CS degree. Specialized in hands-on cyber defense using SIEM, log analysis, and incident response to detect and neutralize threats. Skilled at automating security operations to increase efficiency and accelerate response times.
 
 Developer at Heart:
 Passionate about full stack development and AI integration, with recent experience architecting secure-by-design, production-ready systems—including a Math Retrieval-Augmented Generation (RAG) pipeline. Proficient in leveraging new technologies (Rust, Elysia, Vector DBs) to bridge complex logic with user-friendly applications.
