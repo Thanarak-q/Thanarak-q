@@ -1,6 +1,10 @@
 ## 🧑‍💻 About Me
-Cyber Security Engineer and Full Stack Developer with hands-on experience in secure system design, incident response, and end-to-end backend and web application development. Skilled in monitoring security events (SIEM), automating threat detection workflows, and delivering scalable, production-ready solutions—including Retrieval-Augmented Generation (RAG) pipelines and cloud-native platforms. Proven ability to build secure applications for both academic and real-world clients, with a strong passion for CTF, offensive security, and continuous improvement.
 
+Security Professional:
+Currently a Cyber Security Engineer at Chiang Mai University (ITSC) while completing a CS degree. Specialized in hands-on cyber defense using SIEM, log analysis, and incident response to detect and neutralize threats. Skilled at automating security operations to increase efficiency and accelerate response times.
+
+Developer at Heart:
+Passionate about full stack development and AI integration, with recent experience architecting secure-by-design, production-ready systems—including a Math Retrieval-Augmented Generation (RAG) pipeline. Proficient in leveraging new technologies (Rust, Elysia, Vector DBs) to bridge complex logic with user-friendly applications.
 ---
 
 ## 🎓 Education
@@ -36,7 +40,7 @@ Thai (native), English (working proficiency)
 
 ### **Cyber Security Engineer**  
 **Information Technology Service Center (ITSC), Chiang Mai University**  
-_June 2024 – Present_  
+_Dec 2024 – Present_  
 - Monitor and analyze security events using SIEM and vulnerability scanners, identifying and mitigating cyber threats across university-wide systems.  
 - Investigate incidents through log analysis and alert correlation, improving detection accuracy and response speed.  
 - Develop Python-based tools for automating threat intelligence and incident analysis, reducing manual workload for security analysts.  
@@ -48,14 +52,14 @@ _June 2024 – Present_
 ## 🚀 Freelance / Professional Projects
 
 ### **MATH RAG CMU — RAG Developer & Data Pipeline Engineer**  
-_Mar 2025 – Jun 2025_  
+_Oct 2025 – Feb 2026_  
 - Designed and implemented a full Retrieval-Augmented Generation (RAG) pipeline for mathematical document search.  
 - Developed FastAPI-based high-performance backend integrating LangChain and vector databases.  
 - Optimized document chunking, embeddings, and vector search for mathematical content.  
 - Deployed scalable, production-ready RAG APIs using Docker.
 
 ### **Nurse Research Data Platform — Full Stack Developer**  
-_Dec 2024 – Feb 2025_  
+_Juk 2025 
 - Built a secure research data collection and management platform using Next.js and LINE OA.  
 - Developed responsive UI, robust form validation, and instant notification workflows for healthcare researchers.  
 - Deployed the platform using Docker for real-world operation.
