@@ -41,7 +41,7 @@ Thai (native), English (working proficiency)
 
 ### **Cyber Security Engineer**  
 **Information Technology Service Center (ITSC), Chiang Mai University**  
-_Dec 2024 – Present_  
+_Dec 2025 – Present_  
 - Monitor and analyze security events using SIEM and vulnerability scanners, identifying and mitigating cyber threats across university-wide systems.  
 - Investigate incidents through log analysis and alert correlation, improving detection accuracy and response speed.  
 - Develop Python-based tools for automating threat intelligence and incident analysis, reducing manual workload for security analysts.  
