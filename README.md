@@ -7,7 +7,6 @@ CS student at Chiang Mai University passionate about full-stack development and 
 ## 🎓 Education
 **Bachelor of Science in Computer Science**  
 Chiang Mai University, Thailand  
-**Expected Graduation:** 2027
 
 ---
 
