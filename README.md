@@ -28,3 +28,4 @@ Git • Docker • AWS • Linux • Postman
 RAG Architecture • Microservices • REST APIs • WebSocket • CTF
 
 ---
+1
